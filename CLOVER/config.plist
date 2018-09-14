@@ -282,6 +282,7 @@
 			<string>Install macOS High Sierra</string>
 			<string>Recovery</string>
 			<string>Preboot</string>
+			<string>Install macOS Mojave</string>
 		</array>
 		<key>Language</key>
 		<string>en:0</string>
