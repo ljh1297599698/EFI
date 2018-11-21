@@ -593,7 +593,7 @@
 				<key>Comment</key>
 				<string>disable port limit in XHCI kext (credit PMHeart)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				g/sPD4MDBQAA
